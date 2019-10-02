@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pulse-less"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "초보 개발자의 놀이터."
+  location         : "한국, 서울 거주 :)"
+  email            : jhk0393@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
